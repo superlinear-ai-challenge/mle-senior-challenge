@@ -1,6 +1,6 @@
-# Radix - Senior Machine Learning Engineer Hiring Challenge
+# Superlinear - Senior Machine Learning Engineer Hiring Challenge
 
-Hiring challenge for the senior MLE (Machine Learning Engineer) applicants at Radix.
+Hiring challenge for the senior MLE (Machine Learning Engineer) applicants at Superlinear.
 
 
 
@@ -53,11 +53,11 @@ You can find the data here:
 
 ## Submit 💯
 
-Send your code and solutioning to your contact person at Radix and we'll get back to you with our feedback.
+Send your code and solutioning to your contact person at Superlinear and we'll get back to you with our feedback.
 
 
 
 
 ## Good luck! 🤞
 
-![Radix](https://media-exp1.licdn.com/dms/image/C4D0BAQH7Tz0v-I5l1g/company-logo_200_200/0/1569474265425?e=2159024400&v=beta&t=TiThE4sfIokh1WfVN04aM7qgcI__285c2xkE0bEzCtA)
+![Superlinear](https://media.licdn.com/dms/image/v2/D4E0BAQFQRO9yT7a3UQ/company-logo_200_200/company-logo_200_200/0/1726128392134/radix_ai_logo?e=1747267200&v=beta&t=AQkJHhKiaTMvwDAyfrgF2et9oDfOuEzqDX_PGOOdit0)
